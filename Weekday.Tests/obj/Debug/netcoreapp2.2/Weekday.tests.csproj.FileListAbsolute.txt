@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/obj/Debug/netcoreapp2.2/Weekday.tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/obj/Debug/netcoreapp2.2/Weekday.tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/obj/Debug/netcoreapp2.2/Weekday.tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/obj/Debug/netcoreapp2.2/Weekday.tests.AssemblyInfo.cs
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/bin/Debug/netcoreapp2.2/Weekday.tests.deps.json
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/bin/Debug/netcoreapp2.2/Weekday.tests.runtimeconfig.json
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/bin/Debug/netcoreapp2.2/Weekday.tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/bin/Debug/netcoreapp2.2/Weekday.tests.dll
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/bin/Debug/netcoreapp2.2/Weekday.tests.pdb
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/bin/Debug/netcoreapp2.2/Weekday.dll
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/bin/Debug/netcoreapp2.2/Weekday.pdb
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/obj/Debug/netcoreapp2.2/Weekday.tests.csproj.CopyComplete
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/obj/Debug/netcoreapp2.2/Weekday.tests.dll
+/Users/Guest/Desktop/WeekdayFinder/Weekday.Tests/obj/Debug/netcoreapp2.2/Weekday.tests.pdb

@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/WeekdayFinder/Weekday/obj/Debug/netcoreapp2.2/Weekday.csprojAssemblyReference.cache
+/Users/Guest/Desktop/WeekdayFinder/Weekday/obj/Debug/netcoreapp2.2/Weekday.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/WeekdayFinder/Weekday/obj/Debug/netcoreapp2.2/Weekday.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/WeekdayFinder/Weekday/obj/Debug/netcoreapp2.2/Weekday.AssemblyInfo.cs
+/Users/Guest/Desktop/WeekdayFinder/Weekday/bin/Debug/netcoreapp2.2/Weekday.deps.json
+/Users/Guest/Desktop/WeekdayFinder/Weekday/bin/Debug/netcoreapp2.2/Weekday.runtimeconfig.json
+/Users/Guest/Desktop/WeekdayFinder/Weekday/bin/Debug/netcoreapp2.2/Weekday.runtimeconfig.dev.json
+/Users/Guest/Desktop/WeekdayFinder/Weekday/bin/Debug/netcoreapp2.2/Weekday.dll
+/Users/Guest/Desktop/WeekdayFinder/Weekday/bin/Debug/netcoreapp2.2/Weekday.pdb
+/Users/Guest/Desktop/WeekdayFinder/Weekday/obj/Debug/netcoreapp2.2/Weekday.dll
+/Users/Guest/Desktop/WeekdayFinder/Weekday/obj/Debug/netcoreapp2.2/Weekday.pdb
